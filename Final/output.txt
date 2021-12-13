@@ -1,0 +1,28 @@
+class CartopSpeed: 120
+Seats: 5
+DriveTrain: 4WDDoors: 4
+class CartopSpeed: 90
+Seats: 4
+DriveTrain: FWDDoors: 2
+class CartopSpeed: 180
+Seats: 4
+DriveTrain: RWDDoors: 2
+class MortorcycletopSpeed: 220
+Seats: 1Has WindShield: false
+class MortorcycletopSpeed: 130
+Seats: 2Has WindShield: true
+==============================================
+class CartopSpeed: 90
+Seats: 4
+DriveTrain: FWDDoors: 2
+class CartopSpeed: 120
+Seats: 5
+DriveTrain: 4WDDoors: 4
+class MortorcycletopSpeed: 130
+Seats: 2Has WindShield: true
+class CartopSpeed: 180
+Seats: 4
+DriveTrain: RWDDoors: 2
+class MortorcycletopSpeed: 220
+Seats: 1Has WindShield: false
+==================================================
